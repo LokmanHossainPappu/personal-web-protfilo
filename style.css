@@ -1,5 +1,76 @@
 *{
     margin: 0;
     padding: 0;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Slabo 27px', serif, Arial, Helvetica, sans-serif;
+}
+.container{
+    height: 500px;
+    padding-bottom: 80px;
+}
+.content{
+    width: 40%;
+    margin-left: 5%;
+    padding-left: 2%;
+    float: left;
+    margin-top:5%;
+}
+h1{
+    font-size: 45px;
+}
+span{
+    font-size: 50px;
+    font-weight: 700;
+    color: rgb(167, 39, 61);
+}
+.link{
+    text-decoration: none;
+    color: blueviolet;
+    background-color: tomato;
+    padding: 7px 10px;
+    border-radius: 5px;
+    color: white;
+}
+img{
+    width: 100%;
+}
+.second-part{
+    height: 500px;
+    padding-bottom: 100px;
+}
+.work{
+    width:25%;
+    display: inline-block;
+    margin: 10px;
+    margin-left: 5%;
+}
+.title{
+    margin: auto;
+    text-align: center;
+    padding: 30px 0;
+    color:tomato;
+}
+.third-part{
+    height: 400px;
+}
+section{
+    height: 250px;
+    text-align: ;
+  
+}
+.pias{
+    width:400px;
+    margin:auto;
+    text-align: center;
+}
+footer{
+    height: 150px;
+    color: white;
+    background: #800080;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to left, #ffc0cb, #800080);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to left, #ffc0cb, #800080); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+text-align: center;
+
+}
+.pp{
+ padding-top:50px;
 }
